@@ -263,7 +263,7 @@
 				TargetAttributes = {
 					8403F5781CFF2C2E007D0BD1 = {
 						CreatedOnToolsVersion = 7.3.1;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1000;
 					};
 					84F248B21C58E65F008F12C1 = {
 						CreatedOnToolsVersion = 7.2;
@@ -410,8 +410,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ramotion.CircleMenu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -435,8 +434,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ramotion.CircleMenu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
